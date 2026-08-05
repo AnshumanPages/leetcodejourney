@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/AnshumanPages/leetcodejourney/tree/master/0031-next-permutation) |
+| [0151-reverse-words-in-a-string](https://github.com/AnshumanPages/leetcodejourney/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/AnshumanPages/leetcodejourney/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/AnshumanPages/leetcodejourney/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
