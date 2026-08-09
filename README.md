@@ -107,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/AnshumanPages/leetcodejourney/tree/master/0992-subarrays-with-k-different-integers) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/AnshumanPages/leetcodejourney/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
