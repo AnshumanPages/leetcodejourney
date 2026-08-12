@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AnshumanPages/leetcodejourney/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/AnshumanPages/leetcodejourney/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/AnshumanPages/leetcodejourney/tree/master/0151-reverse-words-in-a-string) |
+| [0876-middle-of-the-linked-list](https://github.com/AnshumanPages/leetcodejourney/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/AnshumanPages/leetcodejourney/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/AnshumanPages/leetcodejourney/tree/master/0876-middle-of-the-linked-list) |
 ## Manacher
 |  |
 | ------- |
