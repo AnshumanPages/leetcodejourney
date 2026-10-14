@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/AnshumanPages/leetcodejourney/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnshumanPages/leetcodejourney/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AnshumanPages/leetcodejourney/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AnshumanPages/leetcodejourney/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AnshumanPages/leetcodejourney/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AnshumanPages/leetcodejourney/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/AnshumanPages/leetcodejourney/tree/master/1539-kth-missing-positive-number) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/AnshumanPages/leetcodejourney/tree/master/0410-split-array-largest-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/AnshumanPages/leetcodejourney/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnshumanPages/leetcodejourney/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AnshumanPages/leetcodejourney/tree/master/1248-count-number-of-nice-subarrays) |
 ## String
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AnshumanPages/leetcodejourney/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/AnshumanPages/leetcodejourney/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/AnshumanPages/leetcodejourney/tree/master/0231-power-of-two) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AnshumanPages/leetcodejourney/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/AnshumanPages/leetcodejourney/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/AnshumanPages/leetcodejourney/tree/master/1922-count-good-numbers) |
 ## Trie
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/AnshumanPages/leetcodejourney/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/AnshumanPages/leetcodejourney/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AnshumanPages/leetcodejourney/tree/master/0992-subarrays-with-k-different-integers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AnshumanPages/leetcodejourney/tree/master/1248-count-number-of-nice-subarrays) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AnshumanPages/leetcodejourney/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sorting
 |  |
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/AnshumanPages/leetcodejourney/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AnshumanPages/leetcodejourney/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnshumanPages/leetcodejourney/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AnshumanPages/leetcodejourney/tree/master/1248-count-number-of-nice-subarrays) |
 ## Counting
 |  |
 | ------- |
