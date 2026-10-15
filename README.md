@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AnshumanPages/leetcodejourney/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AnshumanPages/leetcodejourney/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AnshumanPages/leetcodejourney/tree/master/0022-generate-parentheses) |
+| [0076-minimum-window-substring](https://github.com/AnshumanPages/leetcodejourney/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/AnshumanPages/leetcodejourney/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AnshumanPages/leetcodejourney/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AnshumanPages/leetcodejourney/tree/master/0242-valid-anagram) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnshumanPages/leetcodejourney/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AnshumanPages/leetcodejourney/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/AnshumanPages/leetcodejourney/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/AnshumanPages/leetcodejourney/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AnshumanPages/leetcodejourney/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AnshumanPages/leetcodejourney/tree/master/0160-intersection-of-two-linked-lists) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnshumanPages/leetcodejourney/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/AnshumanPages/leetcodejourney/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnshumanPages/leetcodejourney/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/AnshumanPages/leetcodejourney/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/AnshumanPages/leetcodejourney/tree/master/0930-binary-subarrays-with-sum) |
