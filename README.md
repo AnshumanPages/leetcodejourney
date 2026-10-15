@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnshumanPages/leetcodejourney/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AnshumanPages/leetcodejourney/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/AnshumanPages/leetcodejourney/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/AnshumanPages/leetcodejourney/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/AnshumanPages/leetcodejourney/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AnshumanPages/leetcodejourney/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AnshumanPages/leetcodejourney/tree/master/0540-single-element-in-a-sorted-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/AnshumanPages/leetcodejourney/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AnshumanPages/leetcodejourney/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/AnshumanPages/leetcodejourney/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/AnshumanPages/leetcodejourney/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/AnshumanPages/leetcodejourney/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AnshumanPages/leetcodejourney/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/AnshumanPages/leetcodejourney/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/AnshumanPages/leetcodejourney/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/AnshumanPages/leetcodejourney/tree/master/0455-assign-cookies) |
 | [1903-largest-odd-number-in-string](https://github.com/AnshumanPages/leetcodejourney/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/AnshumanPages/leetcodejourney/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/AnshumanPages/leetcodejourney/tree/master/0242-valid-anagram) |
+| [0455-assign-cookies](https://github.com/AnshumanPages/leetcodejourney/tree/master/0455-assign-cookies) |
 ## String Matching
 |  |
 | ------- |
@@ -268,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnshumanPages/leetcodejourney/tree/master/0084-largest-rectangle-in-histogram) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/AnshumanPages/leetcodejourney/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
